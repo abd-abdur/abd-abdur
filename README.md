@@ -1,6 +1,6 @@
 # Hi, I'm Abdur Rahman 👋
 
-Student at **New York University** based in New York City. I build web apps, data pipelines and machine-learning projects.
+Graduate from **New York University**. I build web apps, data pipelines and AI projects.
 
 ## Tech
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
