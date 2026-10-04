@@ -13,6 +13,7 @@ Graduate from **New York University**. I build web apps, data pipelines and AI p
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white)
 
 ## Featured projects
+- [**SDD Harness**](https://github.com/abd-abdur/sdd-harness): spec-driven development workflow for Claude Code with 49 agents, 139 skills and 167 validators
 - [**hishab**](https://github.com/abd-abdur/hishab): bank-statement parser and budgeting app. Upload PDFs, scans, CSV or Excel and get verified transactions, budgets and recurring-charge tracking
 - [**Dar360**](https://github.com/abd-abdur/dar360-fe): UAE real estate platform connecting agents, owners and tenants (React, TypeScript, Vite)
 - [**LazYdrobe**](https://github.com/abd-abdur/lazydrobe_app): full-stack wardrobe and outfit recommendation app (React + FastAPI)
