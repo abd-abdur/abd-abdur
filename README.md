@@ -19,6 +19,3 @@ Student at **New York University** based in New York City. I build web apps, dat
 - [**MyBingeTracker**](https://github.com/abd-abdur/MyBingeTracker): movie and TV watchlist app using the TMDb API
 - [**Country Air Quality Insights**](https://github.com/abd-abdur/CountryAirQualityInsights): population vs. air-quality data pipeline
 - [**NYUAD Marketplace**](https://github.com/abd-abdur/nyuad_marketplace): buy/sell marketplace for the NYUAD community
-
-## Links
-🌐 [Portfolio](https://ar71650.wixsite.com/abdur-rahman)
