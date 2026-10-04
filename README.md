@@ -14,6 +14,7 @@ Graduate from **New York University**. I build web apps, data pipelines and AI p
 
 ## Featured projects
 - [**hishab**](https://github.com/abd-abdur/hishab): bank-statement parser and budgeting app. Upload PDFs, scans, CSV or Excel and get verified transactions, budgets and recurring-charge tracking
+- [**Dar360**](https://github.com/abd-abdur/dar360-fe): UAE real estate platform connecting agents, owners and tenants (React, TypeScript, Vite)
 - [**LazYdrobe**](https://github.com/abd-abdur/lazydrobe_app): full-stack wardrobe and outfit recommendation app (React + FastAPI)
 - [**ElectroAnalytica**](https://github.com/abd-abdur/BigDataFinalProject): Spark/Scala analysis of electricity rates, consumption and EV adoption
 - [**Predicting Telework Hours**](https://github.com/abd-abdur/Predicting_Telework_Hours): Random Forest, XGBoost and neural-net models on telework data
