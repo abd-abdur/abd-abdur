@@ -13,6 +13,7 @@ Student at **New York University** based in New York City. I build web apps, dat
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white)
 
 ## Featured projects
+- [**hishab**](https://github.com/abd-abdur/hishab): bank-statement parser and budgeting app. Upload PDFs, scans, CSV or Excel and get verified transactions, budgets and recurring-charge tracking
 - [**LazYdrobe**](https://github.com/abd-abdur/lazydrobe_app): full-stack wardrobe and outfit recommendation app (React + FastAPI)
 - [**ElectroAnalytica**](https://github.com/abd-abdur/BigDataFinalProject): Spark/Scala analysis of electricity rates, consumption and EV adoption
 - [**Predicting Telework Hours**](https://github.com/abd-abdur/Predicting_Telework_Hours): Random Forest, XGBoost and neural-net models on telework data
